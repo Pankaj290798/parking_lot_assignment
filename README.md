@@ -8,7 +8,7 @@ This is a simple parking lot management system implemented in Java. It provides 
 * Features 
 * Requirements 
 * Installation 
-* Interacting with the APIs Postman URLs.
+* Interacting with the APIs Postman URLs
 
 
 ### Features
