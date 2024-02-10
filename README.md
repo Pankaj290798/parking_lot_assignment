@@ -24,7 +24,7 @@ This is a simple parking lot management system implemented in Java. It provides 
 ### Installation
 * Clone the repository
 ```` 
-git clone
+git clone https://github.com/Pankaj290798/parking_lot_assignment.git
 ```` 
 * Build the project using Maven
 ```
